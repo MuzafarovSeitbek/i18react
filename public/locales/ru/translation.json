@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "homepage": {
+      "mainBlock": {
+        "title": "Добро пожаловать",
+        "subTitle": "Это проект на React",
+        "desc": "Простой текст для примера"
+      },
+      "aboutBlock": {
+        "title": "О нас",
+        "desc": "Простой текст"
+      }
+    },
+    "aboutPage": {
+      "about": {
+        "title": "Страница О нас"
+      }
+    }
+  },
+  "header": {
+
+  }
+}

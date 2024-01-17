@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "homepage": {
+      "mainBlock": {
+        "title": "Welcome guys",
+        "subTitle": "It is Project in React",
+        "desc": "Just text for example"
+      },
+      "aboutBlock": {
+        "title": "About us",
+        "desc": "Simple text"
+      }
+    },
+    "aboutPage": {
+      "about": {
+        "title": "About us Page!"
+      }
+    }
+  },
+  "header": {
+  }
+}
